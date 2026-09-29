@@ -1,4 +1,4 @@
-#Github Docs
+# Github Docs
 ## Second laba IS 2026 ISPRO
 ### Opisanie rabotu
   Я создал 4 файла считающих площади 4 "разных" фигур
