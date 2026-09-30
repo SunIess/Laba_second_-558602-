@@ -1,3 +1,3 @@
 def square(n):
-    """Ploshadb kvadrata chisla n."""
+    "Площадь квадрата со стороной n"
     return n * n
